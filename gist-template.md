@@ -23,7 +23,7 @@ Briefly summarize the regex you will be describing and what you will explain. In
 ## Regex Components
 
 ### Anchors
-<script src="https://gist.github.com/BDA2013/cfea8c5f432e7606679e430fe75ec86c.js"></script>
+
 
 ### Quantifiers
 
